@@ -1,4 +1,4 @@
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=roast247&show_icons=true)
+
 
 
 
@@ -14,3 +14,7 @@ Disclaimer: I am not resposible for any illegal actions with the use of my progr
 
   If you would like to contact me, email me at support@roast247.eu.org
 </h4>
+
+<center>
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=roast247&show_icons=true)
+</center>
