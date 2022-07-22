@@ -17,4 +17,4 @@ Disclaimer: I am not resposible for any illegal actions with the use of my progr
 
 <h4 align="center">
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=roast247&show_icons=true)
-<hr>
+</h4>
